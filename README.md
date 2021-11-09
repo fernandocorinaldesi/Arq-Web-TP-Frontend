@@ -6,6 +6,7 @@
 - [Empezando](#Empezando)
   - [Requerimientos](#Requerimientos)
   - [Dependencias](#Dependencias)
+  - [Screenshot](#Screenshot)
 - [Setup](#Setup)
 - [Contacto](#Contacto)
  
@@ -22,6 +23,12 @@ Funciones disponibles:
  - Nodejs  (v7 o superior) instalado
  - Postgrsql (v9.4 o superior) instalado
  - Vue.js 2
+
+## Screenshot
+![screenshoot](https://i.ibb.co/b24PPgs/img1.jpg)
+
+![screenshoot](https://i.ibb.co/b24PPgs/img1.jpg)
+
 
 
  
