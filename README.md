@@ -6,6 +6,7 @@
 - [Empezando](#Empezando)
   - [Requerimientos](#Requerimientos)
   - [Dependencias](#Dependencias)
+- [Project setup](#Project setup)
 - [Contacto](#Contacto)
  
  
