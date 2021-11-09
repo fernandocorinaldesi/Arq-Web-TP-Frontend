@@ -6,7 +6,7 @@
 - [Empezando](#Empezando)
   - [Requerimientos](#Requerimientos)
   - [Dependencias](#Dependencias)
-- [Project setup](#Project setup)
+- [Setup](#Setup)
 - [Contacto](#Contacto)
  
  
@@ -39,7 +39,7 @@ Funciones disponibles:
 
 
 
-## Project setup
+# Setup
 ```
 npm install
 ```
